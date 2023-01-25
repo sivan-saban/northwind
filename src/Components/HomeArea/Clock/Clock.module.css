@@ -1,0 +1,9 @@
+.FontColor {
+	color:pink ;
+    font-weight:bold;
+}
+
+.CoolBackGround{
+    background-image: linear-gradient(grey, white);
+    padding: 10px;
+}
